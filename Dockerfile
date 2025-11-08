@@ -1,4 +1,4 @@
-FROM amazoncorretto:17.0.8-alpine3.18
+FROM eclipse-temurin:17-jre-jammy
     
 EXPOSE 8080
  
